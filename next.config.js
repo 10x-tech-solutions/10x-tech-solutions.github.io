@@ -4,7 +4,7 @@ module.exports = {
   //   defaultLocale: "en",
   // },
   output: "export",
-  basePath: "/10x-tech-solutions",
+  // basePath: "/10x-tech-solutions",
   images: {
     unoptimized: true,
   },
